@@ -1,0 +1,437 @@
+[
+  {
+    "ContainingType": "Kurs.Controllers.CourseController",
+    "Method": "GetAllCourses",
+    "RelativePath": "api/courses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.CourseController",
+    "Method": "CreateCourse",
+    "RelativePath": "api/courses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseForCreationDto",
+        "Type": "Kurs.DTO.CourseForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.CourseController",
+    "Method": "DeleteCourse",
+    "RelativePath": "api/courses",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.CourseController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/courses",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "courseForUpdate",
+        "Type": "Kurs.DTO.CourseForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.CourseController",
+    "Method": "GetCourse",
+    "RelativePath": "api/courses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetCourse"
+  },
+  {
+    "ContainingType": "Kurs.Controllers.GroupController",
+    "Method": "GetAllGroups",
+    "RelativePath": "api/groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.GroupController",
+    "Method": "CreateGroup",
+    "RelativePath": "api/groups",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "group",
+        "Type": "Kurs.DTO.GroupForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.GroupController",
+    "Method": "DeleteGroup",
+    "RelativePath": "api/groups",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.GroupController",
+    "Method": "UpdateGroup",
+    "RelativePath": "api/groups",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "groupForUpdate",
+        "Type": "Kurs.DTO.GroupForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.GroupController",
+    "Method": "GetGroup",
+    "RelativePath": "api/groups/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetGroup"
+  },
+  {
+    "ContainingType": "Kurs.Controllers.InstructorController",
+    "Method": "GetAllInstructors",
+    "RelativePath": "api/instructors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.InstructorController",
+    "Method": "CreateInstructor",
+    "RelativePath": "api/instructors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instructorForCreationDto",
+        "Type": "Kurs.DTO.InstructorForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.InstructorController",
+    "Method": "DeleteInstructor",
+    "RelativePath": "api/instructors",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instructorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.InstructorController",
+    "Method": "UpdateInstructor",
+    "RelativePath": "api/instructors",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instructorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "instructorForUpdate",
+        "Type": "Kurs.DTO.InstructorForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.InstructorController",
+    "Method": "GetInstructor",
+    "RelativePath": "api/instructors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetInstructor"
+  },
+  {
+    "ContainingType": "Kurs.Controllers.LessonController",
+    "Method": "GetAllLessons",
+    "RelativePath": "api/lessons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.LessonController",
+    "Method": "CreateLesson",
+    "RelativePath": "api/lessons",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "instructorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "lesson",
+        "Type": "Kurs.DTO.LessonForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.LessonController",
+    "Method": "DeleteLesson",
+    "RelativePath": "api/lessons",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.LessonController",
+    "Method": "UpdateLesson",
+    "RelativePath": "api/lessons",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lessonId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "groupid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "instructorId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "lessonForUpdate",
+        "Type": "Kurs.DTO.LessonForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.LessonController",
+    "Method": "GetLesson",
+    "RelativePath": "api/lessons/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetLesson"
+  },
+  {
+    "ContainingType": "Kurs.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.StudentController",
+    "Method": "Createstudent",
+    "RelativePath": "api/students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "studentForCreationDto",
+        "Type": "Kurs.DTO.StudentForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.StudentController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/students",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/students",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "studentForUpdate",
+        "Type": "Kurs.DTO.StudentForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kurs.Controllers.StudentController",
+    "Method": "GetStudent",
+    "RelativePath": "api/students/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetStudent"
+  }
+]

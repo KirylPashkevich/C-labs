@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\appsettings.json",
+              "RelativeDocumentMoniker": "Kurs\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\appsettings.json",
+              "RelativeToolTip": "Kurs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T10:42:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Program.cs",
+              "RelativeDocumentMoniker": "Kurs\\Program.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Program.cs",
+              "RelativeToolTip": "Kurs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:37:28.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
