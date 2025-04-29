@@ -3,6 +3,130 @@
   "WorkspaceRootPath": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\validators\\instructorforcreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\validators\\instructorforcreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\extensions\\lessonnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\extensions\\lessonnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\extensions\\instructornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\extensions\\instructornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\configuration\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\configuration\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\validators\\groupforcreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\validators\\groupforcreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\configuration\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\configuration\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\configuration\\instructorsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\configuration\\instructorsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\extensions\\notfoundextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\extensions\\notfoundextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\extensions\\groupnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\extensions\\groupnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\migrations\\repositorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\migrations\\repositorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\migrations\\20250307212802_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\migrations\\20250307212802_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\extensions\\exeptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\extensions\\exeptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\dto\\instructorforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\dto\\instructorforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\contracts\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\contracts\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\contracts\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\contracts\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\contracts\\iinstructorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\contracts\\iinstructorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\contracts\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\contracts\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\validators\\courseforcreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\validators\\courseforcreationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\models\\extensions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\models\\extensions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|c:\\users\\kiryl\\documents\\3 cource\\oop\\kurs\\kurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6556518F-A1F9-497E-B818-EF95C8FFD234}|Kurs\\Kurs.csproj|solutionrelative:kurs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -18,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +150,406 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupForCreationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Validators\\GroupForCreationValidator.cs",
+              "RelativeDocumentMoniker": "Kurs\\Validators\\GroupForCreationValidator.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Validators\\GroupForCreationValidator.cs",
+              "RelativeToolTip": "Kurs\\Validators\\GroupForCreationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\RepositoryContext.cs",
+              "RelativeToolTip": "Kurs\\Repository\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\GroupRepository.cs",
+              "RelativeToolTip": "Kurs\\Repository\\GroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Group.cs",
+              "RelativeToolTip": "Kurs\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:21.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstructorNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\InstructorNotFoundException.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\Extensions\\InstructorNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\InstructorNotFoundException.cs",
+              "RelativeToolTip": "Kurs\\Models\\Extensions\\InstructorNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Kurs\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:20.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\GroupNotFoundException.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\Extensions\\GroupNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\GroupNotFoundException.cs",
+              "RelativeToolTip": "Kurs\\Models\\Extensions\\GroupNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositoryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Kurs\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "RelativeToolTip": "Kurs\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:16.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250307212802_first-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Migrations\\20250307212802_first-migration.cs",
+              "RelativeDocumentMoniker": "Kurs\\Migrations\\20250307212802_first-migration.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Migrations\\20250307212802_first-migration.cs",
+              "RelativeToolTip": "Kurs\\Migrations\\20250307212802_first-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\MappingProfile\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Kurs\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\MappingProfile\\MappingProfile.cs",
+              "RelativeToolTip": "Kurs\\MappingProfile\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExeptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Extensions\\ExeptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Kurs\\Extensions\\ExeptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Extensions\\ExeptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Kurs\\Extensions\\ExeptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:13.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InstructorForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\DTO\\InstructorForUpdateDto.cs",
+              "RelativeDocumentMoniker": "Kurs\\DTO\\InstructorForUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\DTO\\InstructorForUpdateDto.cs",
+              "RelativeToolTip": "Kurs\\DTO\\InstructorForUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IlessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\IlessonRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Contracts\\IlessonRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\IlessonRepository.cs",
+              "RelativeToolTip": "Kurs\\Contracts\\IlessonRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Contracts\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\IGroupRepository.cs",
+              "RelativeToolTip": "Kurs\\Contracts\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:37:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\Configuration\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\CourseConfiguration.cs",
+              "RelativeToolTip": "Kurs\\Repository\\Configuration\\CourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:20.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\Configuration\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\GroupConfiguration.cs",
+              "RelativeToolTip": "Kurs\\Repository\\Configuration\\GroupConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:19.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\LessonConfiguration.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\Configuration\\LessonConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\LessonConfiguration.cs",
+              "RelativeToolTip": "Kurs\\Repository\\Configuration\\LessonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\InstructorRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\InstructorRepository.cs",
+              "RelativeToolTip": "Kurs\\Repository\\InstructorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:18.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstructorsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\InstructorsConfiguration.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\Configuration\\InstructorsConfiguration.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\Configuration\\InstructorsConfiguration.cs",
+              "RelativeToolTip": "Kurs\\Repository\\Configuration\\InstructorsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Repository\\LessonRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Repository\\LessonRepository.cs",
+              "RelativeToolTip": "Kurs\\Repository\\LessonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\ErrorModel\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\ErrorModel\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\ErrorModel\\ErrorDetails.cs",
+              "RelativeToolTip": "Kurs\\Models\\ErrorModel\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:34:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "Kurs\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "Kurs\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:19:46.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IInstructorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\IInstructorsRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Contracts\\IInstructorsRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\IInstructorsRepository.cs",
+              "RelativeToolTip": "Kurs\\Contracts\\IInstructorsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:19:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InstructorForCreationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Validators\\InstructorForCreationValidator.cs",
+              "RelativeDocumentMoniker": "Kurs\\Validators\\InstructorForCreationValidator.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Validators\\InstructorForCreationValidator.cs",
+              "RelativeToolTip": "Kurs\\Validators\\InstructorForCreationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:41.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseForCreationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Validators\\CourseForCreationValidator.cs",
+              "RelativeDocumentMoniker": "Kurs\\Validators\\CourseForCreationValidator.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Validators\\CourseForCreationValidator.cs",
+              "RelativeToolTip": "Kurs\\Validators\\CourseForCreationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:40.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\StudentNotFoundException.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\Extensions\\StudentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\StudentNotFoundException.cs",
+              "RelativeToolTip": "Kurs\\Models\\Extensions\\StudentNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:36.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotFoundExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\NotFoundExtension.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\Extensions\\NotFoundExtension.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\NotFoundExtension.cs",
+              "RelativeToolTip": "Kurs\\Models\\Extensions\\NotFoundExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LessonNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\LessonNotFoundException.cs",
+              "RelativeDocumentMoniker": "Kurs\\Models\\Extensions\\LessonNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Models\\Extensions\\LessonNotFoundException.cs",
+              "RelativeToolTip": "Kurs\\Models\\Extensions\\LessonNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:34.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Kurs\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Kurs\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:06.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Kurs\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Kurs\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:05.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Kurs\\Contracts\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Contracts\\ICourseRepository.cs",
+              "RelativeToolTip": "Kurs\\Contracts\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:18:04.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\appsettings.json",
               "RelativeDocumentMoniker": "Kurs\\appsettings.json",
@@ -34,12 +557,11 @@
               "RelativeToolTip": "Kurs\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T10:42:58.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T10:42:58.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Program.cs",
               "RelativeDocumentMoniker": "Kurs\\Program.cs",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\KURS\\Kurs.csproj": {}
+    "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Kurs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\KURS\\Kurs.csproj": {
+    "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Kurs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\KURS\\Kurs.csproj",
+        "projectUniqueName": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Kurs.csproj",
         "projectName": "Kurs",
-        "projectPath": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\KURS\\Kurs.csproj",
+        "projectPath": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\Kurs.csproj",
         "packagesPath": "C:\\Users\\Kiryl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\KURS\\obj\\",
+        "outputPath": "C:\\Users\\Kiryl\\Documents\\3 cource\\OOP\\Kurs\\Kurs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
