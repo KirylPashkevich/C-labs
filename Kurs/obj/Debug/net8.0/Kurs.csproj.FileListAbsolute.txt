@@ -105,11 +105,7 @@ C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\obj\Debug\net8.0\refint\Kurs.dll
 C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\obj\Debug\net8.0\Kurs.pdb
 C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\obj\Debug\net8.0\Kurs.genruntimeconfig.cache
 C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\obj\Debug\net8.0\ref\Kurs.dll
-C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\obj\Debug\net8.0\Kurs.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\Kurs\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kiryl\Documents\3 cource\OOP\Kurs\kurs\obj\Debug\net8.0\Kurs.sourcelink.json

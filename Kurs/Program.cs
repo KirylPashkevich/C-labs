@@ -1,9 +1,6 @@
-using FluentValidation;
 using Kurs.Contracts;
-using Kurs.Extensions;
 using Kurs.Repository;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,28 +19,12 @@ builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 
-// Add Swagger services BEFORE building the app
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(c =>
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My Api", Version = "v1" }));
-builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 var app = builder.Build();
-app.ConfigureExceptionHandler();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-}
-
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Driving School API V1");
-        c.RoutePrefix = "swagger";
-    });
 }
 
 app.UseStaticFiles();

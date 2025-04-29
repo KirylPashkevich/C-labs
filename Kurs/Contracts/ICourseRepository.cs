@@ -6,8 +6,5 @@ namespace Kurs.Contracts
     {
         IEnumerable<CourseDto> GetAllCourses(bool trackChanges);
         CourseDto GetCourse(int id, bool trackChanges);
-        CourseDto CreateCourse(CourseForCreationDto course);
-        void DeleteCourse(int course, bool trackChanges);
-        void UpdateCourse(int course, CourseForUpdateDto courseForUpdate, bool trackChanges);
     }
 }
